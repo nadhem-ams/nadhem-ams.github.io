@@ -8,15 +8,15 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+# Nadhem Bouajila
+Elève en cycle pre ingénieur
 
 
-Disponible XX mois à partir de Date
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
 
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
+[nadhem.bouajila[at]etu.unilasalle.fr](mailto:nadhem.bouajila@etu.unilasalle.fr)
 
-Permis B, voiture
+[LinkedIn](https://www.linkedin.com/in/nadhem-bouajila-864619356/)
+
+
 
